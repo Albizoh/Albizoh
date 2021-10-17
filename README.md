@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Albizoh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...albertmutuku@gmail.com
+Hello, My name is Albert Musembi.
+Am intrested in frontend development,
+and am currently learning, React JS.
+Am looking to colaborate in Web development projects.
+Reach me via; albertmutuku@gmail.com
 
 <!---
 Albizoh/Albizoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
